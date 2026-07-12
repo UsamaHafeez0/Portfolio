@@ -203,7 +203,7 @@ export const projects = [
     sections: [
       {
         heading: "The problem",
-        body: "In a competitive delivery market, the priorities were clear: speed, reliability, smoother shopping journeys, and a steady stream of new features to support growth and marketing.",
+        body: "In a competitive delivery market, the priorities were clear: speed, reliability, smooth shopping journeys, and a steady stream of new features to support growth and marketing.",
         images: [],
       },
       {
@@ -301,7 +301,7 @@ export const projects = [
         body: "",
         bullets: [
           "API responses up to 3x faster across the shopping journey.",
-          "A top grocery delivery platform in Kuwait — hundreds of thousands of downloads.",
+          "Work live in one of Kuwait's top grocery delivery platforms — hundreds of thousands of downloads.",
           "Strengthened and shipped revenue features: wallet, gift cards, loyalty, and marketplace.",
           "Modular data layer let Drops switch core platforms without a costly rewrite.",
         ],
