@@ -189,15 +189,15 @@ export const projects = [
     },
     tldr: [
       "Cut API response times by up to 3x — faster ordering, smoother journeys.",
-      "Shipped wallet payments, gift cards, loyalty, marketplace, and shopping lists.",
-      "Led the homepage redesign; co-designed a modular data layer that let Drops switch core platforms without rewrites.",
+      "Work spans wallet payments, gift cards, loyalty, marketplace, and shopping lists.",
+      "Drove the homepage experience forward; co-designed a modular data layer that let Drops switch core platforms without rewrites.",
     ],
     capabilities: [
       { label: "Wallet payments", target: "wallet" },
       { label: "Digital gift cards", target: "digital-gift-cards" },
       { label: "Loyalty program", target: "loyalty" },
       { label: "Marketplace", target: "the-marketplace" },
-      { label: "Homepage redesign", target: "the-homepage" },
+      { label: "Homepage", target: "the-homepage" },
       { label: "OTP verification — SMS & email", target: "performance-and-trust" },
     ],
     sections: [
@@ -208,11 +208,11 @@ export const projects = [
       },
       {
         heading: "The homepage",
-        body: "I led the complete redesign of the app's homepage — the daily entry point for hundreds of thousands of shoppers. The rebuild restructured how categories, special offers, and campaigns surface, with load-time performance kept front and center.",
+        body: "The homepage is the daily entry point for hundreds of thousands of shoppers. My work here has focused on how categories, special offers, and campaigns surface — with load-time performance kept front and center.",
         images: [
           {
             src: "/images/drops-home.jpg",
-            caption: "The redesigned homepage — campaigns, categories, and offers, tuned for load time.",
+            caption: "The homepage — campaigns, categories, and offers, tuned for load time.",
             phone: true,
           },
         ],
@@ -272,7 +272,7 @@ export const projects = [
       },
       {
         heading: "Digital gift cards",
-        body: "Gift cards let anyone send Drops credit: purchased in-app, delivered by a branded email, and redeemable in a tap. I built the flow end to end, including the email delivery.",
+        body: "Gift cards let anyone send Drops credit: purchased in-app, delivered by a branded email, and redeemable in a tap.",
         phones: true,
         images: [
           {
