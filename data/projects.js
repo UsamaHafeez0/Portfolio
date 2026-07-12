@@ -177,7 +177,7 @@ export const projects = [
     title: "Drops — Grocery E-Commerce App",
     cardTitle: "Drops",
     tag: "Consumer · Mobile",
-    cardDesc: "Kuwait's leading grocery delivery app.",
+    cardDesc: "One of Kuwait's leading grocery delivery apps.",
     featured: true,
     cover: "/images/drops-cover.jpg",
     oneLiner:
@@ -203,7 +203,7 @@ export const projects = [
     sections: [
       {
         heading: "The problem",
-        body: "In a competitive delivery market, Drops needed a faster, more reliable app, smoother shopping journeys, and new features to support growth and marketing.",
+        body: "In a competitive delivery market, the priorities were clear: speed, reliability, smoother shopping journeys, and a steady stream of new features to support growth and marketing.",
         images: [],
       },
       {
@@ -219,7 +219,7 @@ export const projects = [
       },
       {
         heading: "The marketplace",
-        body: "Drops grew beyond groceries with a marketplace vertical, and I built its mobile experience: listing pages with offers, deals, and quantity controls, and product detail pages carrying promotions, certifications, and recommendations — all on the same performant catalog foundation as the core app.",
+        body: "Drops grew beyond groceries with a marketplace vertical, and I built out its mobile experience: listing pages with offers, deals, and quantity controls, and product detail pages carrying promotions, certifications, and recommendations — all on the same performant catalog foundation as the core app.",
         phones: true,
         images: [
           {
