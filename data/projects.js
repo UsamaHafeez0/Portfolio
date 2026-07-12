@@ -181,7 +181,7 @@ export const projects = [
     featured: true,
     cover: "/images/drops-cover.jpg",
     oneLiner:
-      "One of Kuwait's leading grocery delivery apps, with hundreds of thousands of downloads. I drove performance, revenue features, and UX overhauls.",
+      "One of Kuwait's leading grocery delivery apps, with hundreds of thousands of downloads. My work spans performance, revenue features, and UX.",
     meta: {
       Role: "Mobile engineer, in-house team",
       Stack: "Flutter",
@@ -302,7 +302,7 @@ export const projects = [
         bullets: [
           "API responses up to 3x faster across the shopping journey.",
           "A top grocery delivery platform in Kuwait — hundreds of thousands of downloads.",
-          "New revenue features shipped: wallet, gift cards, loyalty, and marketplace.",
+          "Strengthened and shipped revenue features: wallet, gift cards, loyalty, and marketplace.",
           "Modular data layer let Drops switch core platforms without a costly rewrite.",
         ],
         images: [],
