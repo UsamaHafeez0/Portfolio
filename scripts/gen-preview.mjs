@@ -149,9 +149,9 @@ const marqueeItems = [...projects, ...projects]
 
 const home = `<main>
 <section class="hero">
-  <p class="eyebrow">Usama Hafeez · Product Engineer</p>
+  <p class="eyebrow">Usama Hafeez · Software Engineer</p>
   <h1>Products, built end-to-end.</h1>
-  <p>I'm Usama — a product engineer. At Braid, I built the core banking dashboard used by US banks. Before that: consumer and operations apps used by hundreds of thousands of people.</p>
+  <p>I'm Usama — an engineer who ships whole products. At Braid, I built the core banking dashboard used by US banks. Before that: consumer and operations apps used by hundreds of thousands of people.</p>
   <div class="hero-ctas">
     <a href="${site.bookingUrl}" target="_blank" rel="noreferrer" class="btn">Book a call</a>
     <a href="#work" class="btn-ghost">View work ↓</a>
@@ -173,8 +173,8 @@ ${expRows}
 </section>
 <section class="section" id="about">
   <h2 class="section-label">About</h2>
-  <p class="about-text">I started as a mobile engineer and kept getting handed the whole problem — not just the code. Shipping Drops' consumer and warehouse apps, building Tuam's white-label platform solo, and architecting Braid's core banking dashboard taught me the same lesson from three angles: the product decisions and the engineering decisions are the same decisions.</p>
-  <p class="about-text">That's the job I do now at Braid — product, informed by having built every layer under it.</p>
+  <p class="about-text">What I offer is end-to-end ownership: taking a product from architecture through launch, then running and improving it after. I work solo when a project needs one engineer and slot into a team when it doesn't. Most of that work has been in domains with low margin for error — banking, payments, live operations — where performance and reliability are part of the job.</p>
+  <p class="about-text">Currently at Braid and Drops, across fintech and consumer.</p>
   <div class="skills">
 ${skillChips}
   </div>

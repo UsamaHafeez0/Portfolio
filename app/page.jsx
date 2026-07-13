@@ -6,12 +6,13 @@ export default function Home() {
   return (
     <main>
       <section className="hero">
-        <p className="eyebrow">Usama Hafeez · Product Engineer</p>
+        <p className="eyebrow">Usama Hafeez · Software Engineer</p>
         <h1>Products, built end-to-end.</h1>
         <p>
-          I&apos;m Usama — a product engineer. At Braid, I built the core
-          banking dashboard used by US banks. Before that: consumer and
-          operations apps used by hundreds of thousands of people.
+          I&apos;m Usama — an engineer who ships whole products. At Braid, I
+          built the core banking dashboard used by US banks. Before that:
+          consumer and operations apps used by hundreds of thousands of
+          people.
         </p>
         <div className="hero-ctas">
           <a href={site.bookingUrl} target="_blank" rel="noreferrer" className="btn">
@@ -88,17 +89,14 @@ export default function Home() {
       <section className="section" id="about">
         <h2 className="section-label">About</h2>
         <p className="about-text">
-          I started as a mobile engineer and kept getting handed the whole
-          problem — not just the code. Shipping Drops&apos; consumer and
-          warehouse apps, building Tuam&apos;s white-label platform solo, and
-          architecting Braid&apos;s core banking dashboard taught me the same
-          lesson from three angles: the product decisions and the engineering
-          decisions are the same decisions.
+          What I offer is end-to-end ownership: taking a product from
+          architecture through launch, then running and improving it after. I
+          work solo when a project needs one engineer and slot into a team
+          when it doesn&apos;t. Most of that work has been in domains with low
+          margin for error — banking, payments, live operations — where
+          performance and reliability are part of the job.
         </p>
-        <p className="about-text">
-          That&apos;s the job I do now at Braid — product, informed by having
-          built every layer under it.
-        </p>
+        <p className="about-text">Currently at Braid and Drops, across fintech and consumer.</p>
         <div className="skills">
           {skills.map((s) => (
             <span className="chip" key={s}>
